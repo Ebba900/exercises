@@ -1,0 +1,1 @@
+let jag = {förnamn:"Ebba", efternamn:"Nordin", ålder:"17"}
